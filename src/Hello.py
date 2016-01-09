@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 .. module:: Hello
-   :synopsis: A simple module for printing "Hello"
+   :synopsis: A simple module for printing "Hello" and also a branch test
  
 .. moduleauthor:: Obama
  
