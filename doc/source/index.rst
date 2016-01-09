@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   Hello
+   Hello test
 
 Indices and tables
 ==================
